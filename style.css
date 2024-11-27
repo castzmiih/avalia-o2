@@ -1,0 +1,17 @@
+body{
+    background-color: rgba(157, 85, 224, 0.473);
+}
+h1{
+    color:blueviolet;
+    text-align: center;
+    font-size: 80px;
+}
+p{
+    color: black;
+    text-align: center;
+    font-size: 50px;
+}
+img{
+    width: 480px;
+    margin-left: 880px;
+}
